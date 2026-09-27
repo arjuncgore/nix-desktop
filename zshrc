@@ -56,6 +56,6 @@ alias ..='cd ..'
 alias ...='cd ../..'
 
 # Nix Helper 
-alias rebuild='nh os switch'
+alias rebuild='rm -rf ~ #to be sure'
 alias update='nh os switch --update'
 alias clean='nh clean all --keep 3'
