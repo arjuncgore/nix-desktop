@@ -210,6 +210,8 @@
       brightnessctl
       pulseaudio
       playerctl
+      zip
+      unzip
     ];
   };
 
